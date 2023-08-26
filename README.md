@@ -5,12 +5,6 @@
 
 
 # Screenshots
-
-## Dashboard
-![image](https://github.com/sumukh-m/Senseware-Alerting-Deaf-Person-against-Danger/blob/master/Screenshots/db1.PNG)
-
-![image](https://github.com/sumukh-m/Senseware-Alerting-Deaf-Person-against-Danger/blob/master/Screenshots/db2.PNG)
-
 ## Landing Page
 ![image](https://github.com/sumukh-m/Senseware-Alerting-Deaf-Person-against-Danger/blob/master/Screenshots/p1.png)
 
@@ -22,3 +16,7 @@
 ## Danger Detection
 ![image](https://github.com/sumukh-m/Senseware-Alerting-Deaf-Person-against-Danger/blob/master/Screenshots/p5.png)
 
+## Dashboard
+![image](https://github.com/sumukh-m/Senseware-Alerting-Deaf-Person-against-Danger/blob/master/Screenshots/db1.PNG)
+
+![image](https://github.com/sumukh-m/Senseware-Alerting-Deaf-Person-against-Danger/blob/master/Screenshots/db2.PNG)
